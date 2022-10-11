@@ -1,0 +1,6 @@
+linux commands: mkdir
+options : 1.-p
+              2.-m
+              3.-v 
+syntax: mkdir [option] directory_name
+example: mkdir Music,mkdir Music/songs
