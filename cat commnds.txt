@@ -1,0 +1,15 @@
+linux command: cat
+symtax:
+        $ cat [OPTION] [FILE]...
+examples:1.$cat filename
+        Output :
+        It will show content of given filename
+        2.$cat file1 file2
+        Output :
+        This will show the content of file1 and file2.
+        3.$cat -n filename
+        Output 
+        It will show content with line number
+        example:-cat-n  geeks.txt
+        1)This is geeks
+        2)A unique array
