@@ -1,0 +1,7 @@
+linux command: LS
+options: 1.-a
+         2.-f
+         3.-l
+examples:# ls -a
+         # ls -f
+         # ls -l
