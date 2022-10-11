@@ -1,0 +1,13 @@
+linux command: ch mod
+options:-c
+        -f
+        -v
+examples: 1. chmod 644 file.htm
+          Set the permissions of file.htm to "owner can read and write; group can read only; others can read only".
+          2.chmod -R 755 myfiles
+          3.chmod u=rw example.jpg
+          4.chmod u+s comphope.txt
+          5.chmod 755 file.cgi
+          6.chmod 666 file.txt
+          7.chmod a=rw file.txt
+        
