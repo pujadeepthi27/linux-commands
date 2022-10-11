@@ -1,0 +1,23 @@
+linux command: sort
+symtax:
+        $ sort filename.txt
+examples: giving input in form of cat command
+[$ cat > file.txt
+abhishek
+chitransh
+satish
+rajan
+naveen
+divyam
+harsh]
+output from sort command
+$ sort file.txt
+
+Output :
+abhishek
+chitransh
+divyam
+harsh
+naveen 
+rajan
+satish
